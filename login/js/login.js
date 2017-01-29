@@ -13,8 +13,6 @@ var camp_sesion =
 		requerido: "si",
 		colum: 6,
 		desfase: 3
-		
-		
 	},
 	
 	{
@@ -219,11 +217,6 @@ function registro(){
 	llenarSelect(tipo_d,"tipo_doc");
 
 	llenar_ubicaciones("pais","departamento","ciudad");
-
-
-
-
-
 
 }
 	
