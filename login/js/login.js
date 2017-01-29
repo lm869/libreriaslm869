@@ -13,6 +13,8 @@ var camp_sesion =
 		requerido: "si",
 		colum: 6,
 		desfase: 3
+		
+		
 	},
 	
 	{
